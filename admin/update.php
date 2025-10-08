@@ -32,7 +32,7 @@
                 <label for="file"> Update Image Of Product</label>
                 <button name='update' type='submit'>Show ALl Product</button>
                 <br><br>
-                <a href="products.php">عرض كل المنتجات</a>
+                <a href="products.php">Show All Product</a>
             </form>
         </div>
         <p>Developer By Eman</p>
