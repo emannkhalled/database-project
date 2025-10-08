@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Update | تعديل منتج</title>
+    <title>Update | Update Product</title>
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
@@ -29,13 +29,13 @@
                 <input type="text" name='price' value='<?php echo $data['price']?>'>
                 <br>
                 <input type="file" id="file" name='image' style='display:none;'>
-                <label for="file"> تحديث صورة المنتج</label>
-                <button name='update' type='submit'>تعديل المنتج</button>
+                <label for="file"> Update Image Of Product</label>
+                <button name='update' type='submit'>Show ALl Product</button>
                 <br><br>
                 <a href="products.php">عرض كل المنتجات</a>
             </form>
         </div>
-        <p>Developer By RAKWAN</p>
+        <p>Developer By Eman</p>
     </center>
 </body>
 </html>
