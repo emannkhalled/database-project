@@ -31,7 +31,7 @@
 </head>
 <body>
     <center>
-        <h3>لوحة تحكم الادمن</h3>
+        <h3>Admin Dashboard</h3>
     </center>
     <?php
     include('config.php');
