@@ -45,8 +45,8 @@
                 <div class='card-body'>
                     <h5 class='card-title'>$row[name]</h5>
                     <p class='card-text'>$row[price]</p>
-                    <a href='delete.php? id=$row[id]' class='btn btn-danger'>حذف منتج</a>
-                    <a href='update.php? id=$row[id]' class='btn btn-primary'>تعديل منتج</a>
+                    <a href='delete.php? id=$row[id]' class='btn btn-danger'>Delete Product</a>
+                    <a href='update.php? id=$row[id]' class='btn btn-primary'>Edit Product</a>
                 </div>
             </div>
         </main>
